@@ -172,6 +172,8 @@ scicomputing:
     children:
       - title: "Overview"
         url: /scicomputing/reference_overview/
+      - title: "Reference Data Sets"
+        url: /scicomputing/reference_datasets/
       - title: "Training and Finding Help"
         url: /scicomputing/reference_training/
       - title: "For Beginniners"
