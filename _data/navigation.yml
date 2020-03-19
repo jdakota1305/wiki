@@ -150,6 +150,8 @@ scicomputing:
         url: /scicomputing/software_standards/
       - title: "Code Examples and Templates"
         url: /scicomputing/software_examples/
+      - title: "Web Applications"
+        url: /scicomputing/software_webapps/
 
   - title: "Large Scale Computing"
     children:

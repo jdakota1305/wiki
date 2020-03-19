@@ -40,11 +40,15 @@ You have the option to run code on a local (desktop) computer, or on a shared co
 
 In an effort to create high-quality, transparent, and reproducible software-aided research, it is important that best practices be fused into the process of code development. This section documents coding standards for research software, templates for different types of coding projects, and examples coding projects.
 
-## [Code Examples and Templates](/scicomputing/software_examples)
+## [Code Examples and Templates](/scicomputing/software_examples/)
+We have collected as many good sources of examples and templates for your use here.
+
+## [Web Applications](/scicomputing/software_webapps/)
+There are a number of ways to create and expose web applications and APIs.  Here we discuss a handful of the most common methods and tips for this at Fred Hutch.
 
 
 ## Other Languages and Tools for Data Analysis
-As we said, while there are some commonly used languages, there really are a huge variety of software people use for research.  This section includes some introductions to other types of software for which we do not specifically have an article addressing them.  Resources external to this Wiki or specific [Resource Library](compdemos/) entries are linked to where applicable.  Happy (coding) Trails!!!!
+As we said, while there are some commonly used languages, there really are a huge variety of software people use for research.  This section includes some introductions to other types of software for which we do not specifically have an article addressing them.  Resources external to this Wiki or specific [Resource Library](/compdemos/) entries are linked to where applicable.  Happy (coding) Trails!!!!
 
 ### Proprietary (Licensed) Statistics Software
 
@@ -52,12 +56,6 @@ We encourage the use of free, open-source software at the Hutch, especially for 
 
 There is an active [**Tableau**](https://www.tableau.com) data visualization community at Fred Hutch. For more information on help sessions, meetups, and Q&A, please see the #tableau-user-comm channel on [The Coop Communities Slack](https://fhbig.slack.com/).
 
-
-### Workflow Managers
-
-Workflow managers are software that facilitate the setup, execution, and monitoring of scientific analyses involving multiple steps. These are especially important for complex bioinformatic analyses that require various software dependencies and resource requirements, and can make your analysis both easier to troubleshoot and more reproducible. Workflow managers common for scientific processes include: [Snakemake](https://snakemake.readthedocs.io/en/stable/), [Cromwell](https://cromwell.readthedocs.io/en/stable/tutorials/FiveMinuteIntro/), [Toil](https://toil.readthedocs.io), [CWL](https://www.commonwl.org), and [Nextflow](https://www.nextflow.io/). For more information on running **Nextflow**, please see [this demo](compdemos/nextflow/).  
-
-Nextflow and Cromwell are currently under development at the Fred Hutch for wider, supported use by researchers here.  [Nextflow](compdemos/nextflow/) is currently available and there is a growing community group working collaboratively you can join on their [Slack channel](https://fhbig.slack.com/archives/CJFP1NYSZ). Cromwell is currently (as of 11/2019) still being evaluated for use by the community, stay tuned for more.  
 
 
 ### Other languages
